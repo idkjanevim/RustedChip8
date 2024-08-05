@@ -2,7 +2,7 @@
 
 Simple Chip-8 Emulator written in rust
 
-This was just a introduction project into the world of emulation. I basically just followed the [Chip8-Book](https://github.com/aquova/chip8-book) so there is next to none of my input.
+This was just my introduction project into the world of emulation. I basically just followed the [Chip8-Book](https://github.com/aquova/chip8-book) so there is next to none of my input.
 
 ## Usage
 
