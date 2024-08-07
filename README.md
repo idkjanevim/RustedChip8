@@ -1,4 +1,4 @@
-# RustedChip8
+# rusted-chip8
 
 Simple Chip-8 Emulator written in rust
 
